@@ -1,0 +1,8 @@
+H:\LogP\Segundaetapa\console_03\console_03\bin\Debug\console_03.exe.config
+H:\LogP\Segundaetapa\console_03\console_03\bin\Debug\console_03.exe
+H:\LogP\Segundaetapa\console_03\console_03\bin\Debug\console_03.pdb
+H:\LogP\Segundaetapa\console_03\console_03\obj\Debug\console_03.csproj.AssemblyReference.cache
+H:\LogP\Segundaetapa\console_03\console_03\obj\Debug\console_03.csproj.SuggestedBindingRedirects.cache
+H:\LogP\Segundaetapa\console_03\console_03\obj\Debug\console_03.csproj.CoreCompileInputs.cache
+H:\LogP\Segundaetapa\console_03\console_03\obj\Debug\console_03.exe
+H:\LogP\Segundaetapa\console_03\console_03\obj\Debug\console_03.pdb
